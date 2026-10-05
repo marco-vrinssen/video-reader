@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "video-reader",
+  "displayName": "Video Reader",
+  "version": "1.0.0",
+  "description": "Reads YouTube videos through their transcript, chapters and metadata with yt-dlp, and samples still frames for on-screen content. Summarizes, answers questions and cites timestamps.",
+  "author": {
+    "name": "Marco Vrinssen",
+    "url": "https://github.com/marco-vrinssen"
+  },
+  "homepage": "https://github.com/marco-vrinssen/video-reader",
+  "repository": "https://github.com/marco-vrinssen/video-reader",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "video",
+    "transcript",
+    "yt-dlp",
+    "research"
+  ]
+}
