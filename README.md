@@ -24,8 +24,6 @@ It also triggers on its own when a YouTube link appears and its content matters.
 /plugin install video-reader@video-reader
 ```
 
-It is also listed in [marco-vrinssen/claude-plugins](https://github.com/marco-vrinssen/claude-plugins) with my other plugins.
-
 Codex, Cursor and other agents that read Agent Skills:
 
 ```
