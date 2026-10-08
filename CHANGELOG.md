@@ -1,5 +1,5 @@
 # Changelog
 
-## 1.0.0 (2026-10-05)
+## 1.0.0 (2026-10-08)
 
-- First public release. Scripts resolve through `CLAUDE_SKILL_DIR` and read yt-dlp JSON as UTF-8, so they run outside macOS.
+- First release. Reads YouTube videos through their transcript, chapters and metadata with yt-dlp, and samples still frames for on-screen content. Summarizes, answers questions and cites timestamps.
