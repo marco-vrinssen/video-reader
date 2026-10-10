@@ -20,8 +20,8 @@ It also triggers on its own when a YouTube link appears and its content matters.
 ## Install
 
 ```
-/plugin marketplace add marco-vrinssen/video-reader
-/plugin install video-reader@video-reader
+/plugin marketplace add marco-vrinssen/marcovrinssen
+/plugin install video-reader@marcovrinssen
 ```
 
 Codex, Cursor and other agents that read Agent Skills:
